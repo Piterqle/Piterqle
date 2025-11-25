@@ -1,102 +1,53 @@
-<h1 align="center">Hello! I'm Pedro Martins 👋</h1>
+# 📌 Pedro Martins — Desenvolvedor Back-End
 
-<p align="center">
-  <b>🤖 Back-End Developer</b><br>
-
-</p>
-
----
-
-## 💎 About me
-
-My name is Pedro Henrique Mendes Martins, I'm from Minas Gerais, Brazil. I'm 17 years old and I'm finishing high school. I work as a Software Developer with a focus on Back-End and I'm looking for opportunities to grow professionally and contribute to challenging projects.
+> **Desenvolvedor Back-End (Node.js & MySQL)**  
+> Em busca de **estágio ou vaga júnior**.  
+> Focado em criar APIs confiáveis, escaláveis e bem estruturadas.
 
 ---
 
-## 🛠️ Technologies and Languages
+## 🧑‍💻 Sobre Mim
+Meu nome é Pedro Henrique Mendes Martins, sou desenvolvedor Back-End de Minas Gerais, Brasil.  
+Atualmente estou finalizando o ensino médio e aprimorando minha experiência com desenvolvimento de APIs, arquitetura limpa, autenticação e gerenciamento de bancos de dados.
 
-### ⚙ Back-end
-<img 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
-  width="40px" 
-  style="margin: 6px;" 
-  title="Node.js"
-/>
-<img 
-    width=40px 
-    title="Express.js"
-    style="margin: 6px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" 
-/>
-          
-### 🖼️ Front-end
-<img 
-    width=40px 
-    title="JavaScript" 
-    style="margin: 6px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
+Busco oportunidades para contribuir em projetos reais, ganhar experiência prática e evoluir profissionalmente na área de desenvolvimento.
 
-### 💻 Desktop
-
-<img 
-    width=40px 
-    title="DotNet" 
-    style="margin: 6px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" 
-/>
-<img 
-    width=40px 
-    title="C#" 
-    style="margin: 6px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-<img 
-    width=40px 
-    title="Python" 
-    style="margin: 6px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-### 📱 Mobile
-<img 
-    width=40px 
-    title="Flutter" 
-    style="margin: 6px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
-/>
-<img 
-    width=40px 
-    title="Dart" 
-    style="margin: 6px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
-/>
-
-### 🛢 Database
-<img 
-    width=40px 
-    title="MySql" 
-    style="margin: 6px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-/>
-<img 
-    width=40px 
-    title="Firebase" 
-    style="margin: 6px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
-/>
-### 📂 Code Versioning
-<img 
-    width=40px 
-    title="Git" 
-    style="margin: 6px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
 ---
 
-## 📊 GitHub Stats
+## 🔧 Tecnologias & Ferramentas
 
-<p align="center">
+### **Back-End**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### **Mobile**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### **Desktop**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### **Outras Tecnologias**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### **Bancos de Dados**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+## 📊 Estatísticas do GitHub
+<div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Piterqle&show_icons=true&theme=dracula" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piterqle&layout=compact&theme=dracula" />
-</p>
+</div>
 
+---
+
+## 📫 Contato
+**Email:** pedrohenriquemendesmartins18@gmail.com </br>
+**Telefone:** +55 (37) 99946-4714 </br>
+**LinkedIn:** www.linkedin.com/in/dev-pedro-martins

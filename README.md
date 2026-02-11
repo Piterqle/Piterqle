@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 Sobre Mim
 Meu nome é Pedro Henrique Mendes Martins, sou desenvolvedor Back-End de Minas Gerais, Brasil.  
-Atualmente estou finalizando o ensino médio e aprimorando minha experiência com desenvolvimento de APIs, arquitetura limpa, autenticação e gerenciamento de bancos de dados.
+Atualmente aprimorando minha experiência com desenvolvimento de APIs, arquitetura limpa, autenticação e gerenciamento de bancos de dados.
 
 Busco oportunidades para contribuir em projetos reais, ganhar experiência prática e evoluir profissionalmente na área de desenvolvimento.
 
